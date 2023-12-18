@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Saumya Talwani
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyatalwani)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **saumyatalwani/saumyatalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +24,7 @@ College Life: Balancing coursework and practical projects, I'm honing my skills 
 
 Exploring Development: Venturing into the realms of app and web development, I'm diving deep into frameworks, languages, and design principles.
 
-Design Enthusiast: Beyond coding, I have a keen interest in UI/UX design. Crafting visually appealing and user-friendly interfaces is a creative challenge I gladly embrace.
+Design Enthusiast: Beyond coding, I have a keen interest in design.
 
 ## 💻 Tech Stack
 Languages: Python, JavaScript
@@ -33,8 +35,6 @@ Design Tools: Figma
 
 ## 🌐 Connect With Me
 LinkedIn
-Portfolio Website
-Twitter
 Blog
 
 ## 🌱 Always Learning
