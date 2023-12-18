@@ -33,4 +33,4 @@ Currently working on AlgoVisualizer, a frontend application to visualize sorting
 
 Thanks for stopping by, and happy coding! 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyatalwani)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyatalwani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
