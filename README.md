@@ -13,7 +13,6 @@ Design Enthusiast: Beyond coding, I have a keen interest in design.
 ### 💻 Tech Stack
 Languages: Python, JavaScript  
 Web Development: HTML, CSS, React  
-App Development: Swift  
 Database: MySQL, MongoDB  
 Design Tools: Figma  
 
