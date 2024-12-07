@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Saumya Talwani
 
 # About Me
-I'm a passionate and ambitious computer science student currently in my second year pursuing a B.Tech degree. My journey in the world of technology has been nothing short of thrilling, and I'm always on the lookout for exciting opportunities to learn and create.
+I'm a passionate and ambitious computer science student currently in my third year pursuing a B.Tech degree. My journey in the world of technology has been nothing short of thrilling, and I'm always on the lookout for exciting opportunities to learn and create.
 
 # 🚀 What I'm Up To
 College Life: Balancing coursework and practical projects, I'm honing my skills in algorithms, data structures, and software development.
