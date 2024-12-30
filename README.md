@@ -17,7 +17,7 @@ Database: MySQL, MongoDB
 Design Tools: Figma  
 
 # 🌐 Connect With Me
-[LinkedIn](www.linkedin.com/in/saumyatalwani/)  
+[LinkedIn](https://www.linkedin.com/in/saumyatalwani/)  
 [Blog](https://blog.techsaumya.in/)  
 Portfolio (Coming Soon)  
 
