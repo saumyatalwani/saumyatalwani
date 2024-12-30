@@ -18,7 +18,7 @@ Design Tools: Figma
 
 # 🌐 Connect With Me
 [LinkedIn](www.linkedin.com/in/saumyatalwani/)  
-[Blog](blog.techsaumya.in/)  
+[Blog](https://blog.techsaumya.in/)  
 Portfolio (Coming Soon)  
 
 # 🌱 Always Learning
