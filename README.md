@@ -19,7 +19,7 @@ Design Tools: Figma
 # 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/saumyatalwani/)  
 [Blog](https://blog.techsaumya.in/)  
-Portfolio (Coming Soon)  
+[Portfolio](https://me.techsaumya.in/)  
 
 # 🌱 Always Learning
 I believe in the power of continuous learning. Whether it's solving algorithmic puzzles, exploring new frameworks, or staying updated on the latest tech trends, I'm dedicated to staying at the forefront of the ever-evolving tech landscape.
