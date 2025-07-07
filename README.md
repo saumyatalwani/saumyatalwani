@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Saumya Talwani
 
 # About Me
-I'm a passionate and ambitious computer science student currently in my third year pursuing a B.Tech degree. My journey in the world of technology has been nothing short of thrilling, and I'm always on the lookout for exciting opportunities to learn and create.
+I'm a passionate and ambitious computer science student currently in my final year pursuing a B.Tech degree. My journey in the world of technology has been nothing short of thrilling, and I'm always on the lookout for exciting opportunities to learn and create.
 
 # 🚀 What I'm Up To
 College Life: Balancing coursework and practical projects, I'm honing my skills in algorithms, data structures, and software development.
@@ -26,9 +26,6 @@ I believe in the power of continuous learning. Whether it's solving algorithmic 
 
 # 🤝 Let's Collaborate
 I'm open to collaboration on exciting projects, internships, or just a friendly chat about tech and development. Feel free to reach out—I'm looking forward to connecting with like-minded individuals!
-
-# 🚧 Work in Progress
-Currently working on AlgoVisualizer, a frontend application to visualize sorting algorithms in React.js . Stay tuned for updates, and feel free to contribute or provide feedback!
 
 Thanks for stopping by, and happy coding! 🚀
 
