@@ -11,9 +11,9 @@ Exploring Development: Venturing into the realms of app and web development, I'm
 Design Enthusiast: Beyond coding, I have a keen interest in design.
 
 # 💻 Tech Stack
-Languages: Python, JavaScript  
-Web Development: HTML, CSS, React  
-Database: MySQL, MongoDB  
+Languages: JavaScript, TypeScript, Python 
+Web Development: React, Next.js, HTML, CSS  
+Database: Postgres, MySQL, MongoDB  
 Design Tools: Figma  
 
 # 🌐 Connect With Me
