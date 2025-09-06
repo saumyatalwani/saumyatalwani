@@ -11,10 +11,11 @@ Exploring Development: Venturing into the realms of app and web development, I'm
 Design Enthusiast: Beyond coding, I have a keen interest in design.
 
 # 💻 Tech Stack
-Languages: JavaScript, TypeScript, Python 
-Web Development: React, Next.js, HTML, CSS  
-Database: Postgres, MySQL, MongoDB  
-Design Tools: Figma  
+**Languages:** JavaScript, TypeScript, Python <br>
+**Web Development:** React, Next.js, HTML, CSS <br>
+**Database:** Postgres, MySQL, MongoDB <br>
+**Design Tools:** Figma
+
 
 # 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/saumyatalwani/)  
