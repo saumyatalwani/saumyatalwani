@@ -30,4 +30,4 @@ I'm open to collaboration on exciting projects, internships, or just a friendly 
 
 Thanks for stopping by, and happy coding! 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyatalwani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyatalwani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
