@@ -31,3 +31,4 @@ I'm open to collaboration on exciting projects, internships, or just a friendly 
 Thanks for stopping by, and happy coding! 🚀
 
 [![Saumya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=saumyatalwani&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Saumya's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=saumyatalwani&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
