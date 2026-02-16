@@ -29,3 +29,5 @@ I believe in the power of continuous learning. Whether it's solving algorithmic 
 I'm open to collaboration on exciting projects, internships, or just a friendly chat about tech and development. Feel free to reach out—I'm looking forward to connecting with like-minded individuals!
 
 Thanks for stopping by, and happy coding! 🚀
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
